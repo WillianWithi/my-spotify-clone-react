@@ -53,6 +53,16 @@ const Sidebar = () => (
                 </li>
             </Nav>
 
+            <Nav>
+                <li>
+                    <span>PLAYLISTS</span> 
+                </li>
+           
+                <li>
+                    <a href="">Melhores do Rock</a>
+                </li>
+            </Nav>    
+
         </div>    
         <NewPlaylist>
             <img src={addPlaylistIcon} alt="adicionar playlist" />
